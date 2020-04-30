@@ -1,0 +1,8 @@
+16:32:37.329 [main] INFO  demo.Log4jDemo - This is information message
+16:32:37.329 [main] ERROR demo.Log4jDemo - This is an error message
+16:32:37.329 [main] WARN  demo.Log4jDemo - This is an warning message
+16:32:37.329 [main] FATAL demo.Log4jDemo - This is an fatal message
+16:33:43.166 [main] INFO  demo.Log4jDemo - This is information message
+16:33:43.166 [main] ERROR demo.Log4jDemo - This is an error message
+16:33:43.166 [main] WARN  demo.Log4jDemo - This is an warning message
+16:33:43.166 [main] FATAL demo.Log4jDemo - This is an fatal message
